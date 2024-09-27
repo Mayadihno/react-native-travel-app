@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Paris Getaway",
+   "rating": 4.8,
+    "reviews": 2150,
+    "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+  
+  },
+  {
+    "id": 2,
+    "name": "Tokyo Adventure",
+     "rating": 4.7,
+    "reviews": 1830,
+     "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+  
+  },
+  {
+    "id": 3,
+    "name": "Santorini Escape",
+     "rating": 4.9,
+    "reviews": 2500,
+     "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+  
+  },
+  {
+    "id": 4,
+    "name": "New York City Vibes",
+      "rating": 4.6,
+    "reviews": 3200,
+     "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+  
+  },
+  {
+    "id": 5,
+    "name": "Dubai Luxury Tour",
+      "rating": 4.9,
+    "reviews": 2870,
+     "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+  
+  }
+]
